@@ -1,2 +1,1 @@
-Nome : Manuel Gabriel Samalombo
-Turma : DSAT6 
+Manuel Gabriel Samalombo
